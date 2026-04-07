@@ -1,0 +1,458 @@
+{
+  "categories": [
+    {
+      "id": "career-skills",
+      "name": "Career & Skills",
+      "description": "Professional development and career guidance",
+      "articles": [
+        {
+          "id": "career-guidance",
+          "title": "Career Guidance",
+          "content": "Choosing the right career path is one of the most important decisions in life. It requires deep self-assessment, understanding current market trends, and aligning your natural strengths with real opportunities in the job market. Emerging fields like Artificial Intelligence, Data Science, Cybersecurity, and Cloud Computing offer tremendous growth potential for the next decade.\n\nSuccessful career planning involves continuous learning, networking with industry professionals, and staying updated with industry changes. It's crucial to set both short-term achievable goals and long-term vision for your professional journey.\n\nKey Takeaways:\n• Identify your core strengths and interests through self-reflection exercises\n• Research emerging career fields and analyze their future growth prospects\n• Explore diverse career paths in Engineering, Arts, Commerce, and Science\n• Build a structured career roadmap with milestones and timelines\n• Stay adaptable and commit to lifelong learning of new skills\n• Network actively with professionals in your desired field\n• Attend career fairs, webinars, and industry conferences\n• Seek mentorship from experienced professionals"
+        },
+        {
+          "id": "resume-portfolio",
+          "title": "Resume & Portfolio Building",
+          "content": "A well-crafted resume and portfolio are essential tools for showcasing your skills, experiences, and accomplishments to potential employers. They serve as your professional identity and create that crucial first impression. Modern recruiters spend an average of 6-7 seconds on initial resume screening, making it vital to have a compelling and well-organized document.\n\nYour portfolio should demonstrate your best work with clear descriptions of your role, challenges faced, and impact created. Include metrics and quantifiable results wherever possible to show tangible value.\n\nKey Takeaways:\n• Use clean, ATS-friendly professional resume templates\n• Highlight achievements with quantifiable results and metrics\n• Create an online portfolio website showcasing your best projects\n• Optimize your LinkedIn profile with industry-relevant keywords\n• Tailor your resume for each specific job application\n• Include a compelling cover letter that tells your unique story\n• Add testimonials and recommendations from colleagues\n• Keep your resume to 1-2 pages maximum"
+        },
+        {
+          "id": "communication-skills",
+          "title": "Communication & Soft Skills",
+          "content": "Effective communication and soft skills are crucial pillars of professional success in any industry. These skills enable you to collaborate effectively with diverse teams, lead projects confidently, and present complex ideas in clear, compelling ways. Studies show that 85% of career success comes from well-developed soft skills.\n\nDeveloping emotional intelligence allows you to understand and manage your own emotions while empathizing with others. This creates stronger relationships and better team dynamics in professional environments.\n\nKey Takeaways:\n• Practice public speaking regularly through Toastmasters or similar platforms\n• Develop active listening skills by giving full attention to speakers\n• Build emotional intelligence through self-awareness and empathy practices\n• Master time management using techniques like Pomodoro or time blocking\n• Cultivate leadership qualities through volunteering and taking initiative\n• Learn conflict resolution strategies and negotiation tactics\n• Improve written communication for emails and reports\n• Practice giving and receiving constructive feedback"
+        },
+        {
+          "id": "technical-skills",
+          "title": "Technical Skills",
+          "content": "Technical skills form the foundation of many modern careers, especially in technology and engineering sectors. Understanding programming basics, web development frameworks, and version control systems is becoming essential even in traditionally non-technical roles as businesses undergo digital transformation.\n\nBuilding hands-on projects is the most effective way to solidify your technical knowledge. Start with small projects and gradually increase complexity while maintaining a portfolio of your work on platforms like GitHub.\n\nKey Takeaways:\n• Learn programming fundamentals: variables, loops, functions, and OOP\n• Master web development with HTML, CSS, JavaScript, and React\n• Understand data structures (arrays, trees, graphs) and algorithms\n• Learn database concepts including SQL and NoSQL databases\n• Practice version control with Git and collaborate on GitHub\n• Build real-world projects to apply theoretical knowledge\n• Contribute to open-source projects for experience\n• Stay updated with latest frameworks and technologies"
+        },
+        {
+          "id": "aptitude-problem-solving",
+          "title": "Aptitude & Problem Solving",
+          "content": "Aptitude and problem-solving skills are tested in most competitive exams, placement tests, and technical interviews. Developing these skills requires consistent practice, logical thinking, and pattern recognition abilities. Strong aptitude skills can significantly improve your performance in entrance exams and job assessments.\n\nRegular practice with a variety of problem types helps build mental agility and speed. Focus on understanding concepts rather than memorizing solutions to develop genuine problem-solving abilities.\n\nKey Takeaways:\n• Practice quantitative aptitude with focus on speed and accuracy\n• Develop logical reasoning through puzzles and pattern questions\n• Improve verbal reasoning with vocabulary and comprehension\n• Solve brain teasers and lateral thinking puzzles regularly\n• Learn pattern recognition techniques for sequence problems\n• Time yourself while practicing to build speed\n• Review mistakes and understand solution approaches\n• Practice mock tests to simulate exam conditions"
+        },
+        {
+          "id": "interview-preparation",
+          "title": "Interview Preparation",
+          "content": "Proper interview preparation significantly increases your chances of success and helps you present your best self confidently. Understanding common question patterns, researching the company thoroughly, and practicing your responses are key factors in acing interviews. Remember that interviews are two-way conversations where you also evaluate the company fit.\n\nBody language, dress code, and communication style play crucial roles in creating positive impressions. Practice with mock interviews to build confidence and receive constructive feedback.\n\nKey Takeaways:\n• Research the company's history, culture, products, and recent news\n• Prepare compelling answers for common HR and behavioral questions\n• Practice technical questions relevant to your field with examples\n• Master group discussion techniques including listening and contributing\n• Work on confident body language, eye contact, and firm handshake\n• Prepare thoughtful questions for the interviewer about role and company\n• Follow STAR method (Situation, Task, Action, Result) for answers\n• Send thank-you emails after interviews"
+        },
+        {
+          "id": "skill-development",
+          "title": "Skill Development",
+          "content": "Continuous skill development is essential for staying relevant and competitive in your career. The modern workplace evolves rapidly with technology and market changes, requiring professionals to adapt and learn constantly. Focus on developing both creative and critical thinking abilities while building resilience and adaptability.\n\nEmbrace a growth mindset that views challenges as opportunities to learn rather than obstacles. Regular skill assessment and targeted learning keep you ahead in your field.\n\nKey Takeaways:\n• Develop creative thinking through regular brainstorming exercises\n• Enhance critical thinking by analyzing situations from multiple angles\n• Improve decision-making skills using frameworks and data analysis\n• Build adaptability to embrace change and uncertainty\n• Learn from failures and setbacks with post-mortem analysis\n• Seek regular feedback and act on constructive criticism\n• Set learning goals and track your progress\n• Explore micro-learning and online courses for upskilling"
+        },
+        {
+          "id": "professional-etiquette",
+          "title": "Professional Etiquette",
+          "content": "Professional etiquette encompasses the unwritten rules and expected behaviors in workplace environments. Understanding and following these norms helps you navigate corporate cultures successfully and build strong professional relationships. Good etiquette demonstrates respect for others and professionalism in all interactions.\n\nMastering business communication, whether through emails, meetings, or presentations, is crucial for career advancement. Small courtesies and professional behavior create lasting positive impressions.\n\nKey Takeaways:\n• Maintain professional workplace behavior and dress appropriately\n• Master business email writing with proper tone and structure\n• Build and nurture a strong professional network\n• Develop effective teamwork and collaboration skills\n• Practice punctuality and reliability in all commitments\n• Understand workplace hierarchies and reporting structures\n• Use professional language and avoid office gossip\n• Respect confidentiality and company information"
+        },
+        {
+          "id": "career-resources",
+          "title": "Career Resources",
+          "content": "Accessing the right resources can significantly accelerate your career growth and learning journey. From online learning platforms to scholarship opportunities, knowing where to look and how to leverage these resources is crucial for professional development. Many high-quality resources are available free or at low cost.\n\nBuilding a personal learning library with books, courses, and resources specific to your field helps you stay current. Join professional communities and attend industry events to expand your knowledge network.\n\nKey Takeaways:\n• Explore offline and online learning platforms like Coursera, Udemy\n• Follow structured learning roadmaps for your field\n• Research scholarship opportunities for higher education\n• Join professional communities and industry forums\n• Attend workshops, webinars, and conferences regularly\n• Build a personal learning library with relevant books\n• Subscribe to industry newsletters and podcasts\n• Utilize free resources from universities and organizations"
+        },
+        {
+          "id": "entrepreneurship-freelancing",
+          "title": "Entrepreneurship & Freelancing",
+          "content": "Entrepreneurship and freelancing offer alternative career paths with unique opportunities and challenges compared to traditional employment. Building your own business requires resilience, strategic planning, and continuous learning. Success comes from solving real problems for customers and adapting quickly to market feedback.\n\nDeveloping a strong personal brand is essential for attracting clients and opportunities in the freelance economy. Start small, validate your ideas, and scale gradually based on proven demand.\n\nKey Takeaways:\n• Validate your business idea through market research before starting\n• Learn the basics of freelancing platforms like Upwork, Fiverr\n• Build a strong personal brand across social media and professional networks\n• Understand basic business finance including pricing and cash flow\n• Network actively with other entrepreneurs and mentors\n• Start small with MVP (Minimum Viable Product) and iterate\n• Learn basic marketing and customer acquisition strategies\n• Manage time effectively between client work and business growth"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What percentage of career success typically comes from well-developed soft skills?",
+          "options": ["50%", "65%", "85%", "95%"],
+          "correctAnswer": 2,
+          "explanation": "Studies show that approximately 85% of career success comes from well-developed soft skills, while only 15% comes from technical knowledge. This emphasizes the importance of communication, leadership, and interpersonal skills."
+        },
+        {
+          "question": "Which method is recommended for answering behavioral interview questions?",
+          "options": ["ABCD Method", "STAR Method", "SMART Method", "PREP Method"],
+          "correctAnswer": 1,
+          "explanation": "The STAR method (Situation, Task, Action, Result) is the recommended framework for answering behavioral interview questions as it provides a structured way to tell compelling stories about your experiences."
+        },
+        {
+          "question": "What is the recommended maximum length for a professional resume?",
+          "options": ["1 page only", "1-2 pages", "2-3 pages", "No limit"],
+          "correctAnswer": 1,
+          "explanation": "A professional resume should be kept to 1-2 pages maximum. This length is sufficient to showcase your key qualifications while respecting recruiters' time, as they typically spend only 6-7 seconds on initial screening."
+        },
+        {
+          "question": "Which emerging field offers tremendous growth potential according to the career guidance?",
+          "options": ["Traditional Banking", "Artificial Intelligence", "Print Media", "Retail Management"],
+          "correctAnswer": 1,
+          "explanation": "Artificial Intelligence, along with Data Science, Cybersecurity, and Cloud Computing, is identified as an emerging field offering tremendous growth potential for the next decade."
+        },
+        {
+          "question": "What does MVP stand for in entrepreneurship?",
+          "options": ["Most Valuable Player", "Minimum Viable Product", "Maximum Value Proposition", "Minimal Venture Profit"],
+          "correctAnswer": 1,
+          "explanation": "MVP stands for Minimum Viable Product. It's a development technique where you create a basic version of your product with just enough features to satisfy early customers and provide feedback for future development."
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge",
+      "name": "General Knowledge",
+      "description": "Essential facts about world, India, history and current affairs",
+      "articles": [
+        {
+          "id": "world-geography",
+          "title": "World Geography",
+          "content": "World geography encompasses the physical features, political boundaries, countries, capitals, and important landmarks across all seven continents. Understanding global geography is essential for general awareness and comprehending international relations, climate patterns, and cultural diversity. Our planet Earth is divided into distinct geographical zones, each with unique characteristics.\n\nGeography influences economics, politics, culture, and climate. Knowing major geographical features helps understand natural disasters, resource distribution, and human settlement patterns across the globe.\n\nKey Facts:\n• There are 195 countries in the world (193 UN members + 2 observer states)\n• Seven continents: Asia (largest), Africa, Europe, North America, South America, Australia, Antarctica\n• Five oceans: Pacific (largest), Atlantic, Indian, Southern, Arctic (smallest)\n• Mount Everest (8,849m) is the world's highest peak located in Nepal-China border\n• Nile River (6,650 km) is traditionally considered the longest river\n• Russia is the largest country by area (17.1 million sq km)\n• Vatican City is the smallest country (0.44 sq km)\n• Asia is home to over 60% of world's population"
+        },
+        {
+          "id": "indian-geography",
+          "title": "Indian Geography",
+          "content": "India is a vast country with incredibly diverse geographical features including the mighty Himalayas, fertile plains, arid deserts, and extensive coastlines. As the seventh-largest country by land area and second-most populous nation, India's geography significantly influences its climate, agriculture, culture, and economy. The country spans from tropical regions in the south to alpine zones in the north.\n\nIndia's strategic location in South Asia, with the Arabian Sea on the west and Bay of Bengal on the east, has historically made it an important center for trade and cultural exchange.\n\nKey Facts:\n• 28 states and 8 union territories (as of 2025)\n• Capital: New Delhi; Financial capital: Mumbai\n• Highest peak: Kanchenjunga (8,586m) in Sikkim\n• Longest river: Ganges (2,525 km), considered sacred\n• Total coastline: 7,517 km including islands\n• Major mountain ranges: Himalayas, Western Ghats, Eastern Ghats, Aravalli\n• Largest state by area: Rajasthan; by population: Uttar Pradesh\n• Tropic of Cancer passes through 8 Indian states"
+        },
+        {
+          "id": "history",
+          "title": "History",
+          "content": "History helps us understand how civilizations evolved, empires rose and fell, and how past events shaped our modern world. From ancient civilizations along river valleys to modern nation-states, historical knowledge provides context for current global affairs and cultural understanding. Learning history develops critical thinking and helps us avoid repeating past mistakes.\n\nMajor historical events like industrial revolution, world wars, independence movements, and technological advancements have fundamentally transformed human society and continue to influence our present.\n\nKey Topics:\n• Ancient civilizations: Mesopotamia, Egypt, Indus Valley, Greek, Roman\n• Medieval period with feudalism, Islamic Golden Age, and crusades\n• World Wars I & II and their global impact on politics and society\n• Independence movements worldwide including Indian freedom struggle\n• Industrial Revolution and its transformation of society\n• Cold War era, decolonization, and formation of modern nations\n• Major revolutions: French, American, Russian, Chinese\n• Renaissance period and scientific revolution"
+        },
+        {
+          "id": "indian-polity",
+          "title": "Indian Polity & Governance",
+          "content": "Indian polity is based on the Constitution of India, which came into effect on January 26, 1950, making India a sovereign, socialist, secular, democratic republic. The Constitution is the longest written constitution of any country, providing a framework for political principles, government structure, and citizen rights. It was drafted by the Constituent Assembly led by Dr. B.R. Ambedkar.\n\nIndia follows a parliamentary system with a federal structure, dividing powers between central and state governments while maintaining unity. The Constitution can be amended to adapt to changing times while preserving its basic structure.\n\nKey Features:\n• Parliamentary form of government with President as constitutional head\n• Federal structure with unitary features for national emergencies\n• Three branches: Legislature (makes laws), Executive (implements), Judiciary (interprets)\n• Fundamental Rights guarantee civil liberties to all citizens\n• Fundamental Duties outline citizen responsibilities\n• Directive Principles guide state policy making\n• Independent Election Commission ensures free and fair elections\n• Separation of powers with checks and balances"
+        },
+        {
+          "id": "economy-finance",
+          "title": "Economy & Finance",
+          "content": "Understanding basic economics and finance is crucial in today's interconnected global economy. Economic literacy helps make informed decisions about personal finance, understand government policies, and comprehend market trends. Modern economies are complex systems involving production, distribution, and consumption of goods and services.\n\nKey economic indicators like GDP, inflation, and employment rates reflect a nation's economic health. Financial markets play crucial roles in capital allocation and economic growth.\n\nKey Concepts:\n• GDP (Gross Domestic Product) measures total economic output and growth\n• Inflation indicates rising prices; controlled by monetary policy\n• Banking system with Reserve Bank of India (RBI) as central bank\n• Stock market basics: shares, bonds, mutual funds, derivatives\n• Taxation system: direct taxes (income) and indirect taxes (GST)\n• Global trade, imports, exports, and foreign exchange markets\n• Fiscal policy (government spending) vs Monetary policy (interest rates)\n• Microeconomics (individual behavior) vs Macroeconomics (national economy)"
+        },
+        {
+          "id": "science-technology",
+          "title": "Science & Technology",
+          "content": "Science and technology drive modern civilization, transforming how we live, work, and communicate. From fundamental physics principles to cutting-edge innovations in AI and biotechnology, understanding these fields is essential for navigating the modern world. Scientific method and technological advancement have solved countless problems and improved quality of life.\n\nThe rapid pace of technological change requires continuous learning and adaptation. Emerging technologies promise to revolutionize healthcare, energy, transportation, and communication in coming decades.\n\nKey Areas:\n• Physics fundamentals: motion, energy, electricity, magnetism, thermodynamics\n• Chemistry: atomic structure, chemical reactions, organic and inorganic chemistry\n• Biology: cell biology, genetics, evolution, ecology, human anatomy\n• Recent technological innovations: 5G, quantum computing, nanotechnology\n• Space exploration: Mars rovers, satellite technology, space stations\n• Medical breakthroughs: vaccines, gene therapy, precision medicine\n• Information technology: cloud computing, cybersecurity, blockchain\n• Environmental science: climate change, renewable energy, conservation"
+        },
+        {
+          "id": "inventions-discoveries",
+          "title": "Inventions & Discoveries",
+          "content": "Human progress is marked by significant inventions and scientific discoveries that transformed civilization. From the wheel to the internet, each innovation built upon previous knowledge to create the modern world. Understanding these milestones helps appreciate our technological journey and inspires future innovations.\n\nMany inventions emerged from necessity, curiosity, or accidental discoveries. The inventors' persistence and creativity in problem-solving led to breakthroughs that changed humanity.\n\nNotable Inventions & Discoveries:\n• Wheel (3500 BC): Revolutionized transportation and machinery\n• Printing Press (1440, Gutenberg): Democratized knowledge and literacy\n• Electricity (late 1800s, multiple inventors): Powered modern civilization\n• Telephone (1876, Alexander Graham Bell): Enabled long-distance communication\n• Penicillin (1928, Fleming): First antibiotic, saved millions of lives\n• Internet (1960s-80s, multiple contributors): Connected the world digitally\n• Smartphone (2007, iPhone): Pocket computer revolutionized daily life\n• DNA structure (1953, Watson & Crick): Foundation of modern genetics"
+        },
+        {
+          "id": "important-days",
+          "title": "Important Days & Events",
+          "content": "Important days and events commemorate significant historical moments, raise awareness about important causes, and celebrate cultural and national achievements. These observances unite communities, honor sacrifices, and promote social causes. Understanding their significance helps appreciate our shared heritage and ongoing challenges.\n\nNational and international days serve as reminders of our responsibilities toward society, environment, and fellow humans. They provide opportunities for reflection, celebration, and action.\n\nKey Dates & Events:\n• January 26: Republic Day (India) - Constitution came into effect\n• August 15: Independence Day (India) - Freedom from British rule (1947)\n• October 2: Gandhi Jayanti - Birth anniversary of Mahatma Gandhi\n• November 14: Children's Day (India) - Nehru's birthday\n• December 10: Human Rights Day - UN Universal Declaration adoption\n• March 8: International Women's Day - Gender equality awareness\n• June 5: World Environment Day - Environmental protection\n• April 22: Earth Day - Environmental awareness and action"
+        },
+        {
+          "id": "current-affairs",
+          "title": "Current Affairs (Offline Concepts)",
+          "content": "While this app works offline, understanding how to stay informed about current affairs and evaluate information critically is important in our information-rich world. Current affairs knowledge encompasses ongoing political, economic, social, scientific, and cultural developments locally and globally. Being informed enables active citizenship and meaningful participation in democracy.\n\nDeveloping media literacy and fact-checking skills helps navigate the complex information landscape and distinguish reliable news from misinformation.\n\nKey Concepts:\n• Understanding news sources: mainstream media, alternative media, social media\n• Fact-checking methodologies and verification techniques\n• Global affairs: international relations, diplomacy, conflicts, cooperation\n• National policies: government reforms, economic policies, social programs\n• Economic updates: budget, market trends, employment, inflation\n• Scientific developments: research breakthroughs, space missions, health\n• Media literacy: identifying bias, propaganda, fake news\n• Cross-referencing information from multiple reliable sources"
+        },
+        {
+          "id": "sports-games",
+          "title": "Sports & Games",
+          "content": "Sports unite people worldwide, transcending language, culture, and borders while promoting physical fitness, teamwork, and fair play. Understanding major sports and sporting events enhances general knowledge and provides common ground for social connections. Sports teach valuable life lessons including discipline, perseverance, teamwork, and handling victory and defeat gracefully.\n\nIndia has rich sporting heritage in both modern international sports and traditional indigenous games that reflect cultural diversity.\n\nMajor Sports & Events:\n• Cricket: India's most popular sport; IPL, World Cup, Test matches\n• Football (Soccer): FIFA World Cup, UEFA Champions League, Premier Leagues\n• Olympics: Summer and Winter Games held every 4 years\n• Tennis: Grand Slams (Wimbledon, US Open, French Open, Australian Open)\n• Athletics: Track and field events, marathons, world championships\n• Traditional Indian sports: Kabaddi, Kho-Kho, Mallakhamb\n• Badminton, Hockey (India's national sport), Wrestling\n• Commonwealth Games, Asian Games for multi-sport events"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many countries are there in the world currently?",
+          "options": ["189", "193", "195", "198"],
+          "correctAnswer": 2,
+          "explanation": "There are 195 countries in the world: 193 UN member states plus 2 observer states (Vatican City and Palestine)."
+        },
+        {
+          "question": "Which is the longest river in India?",
+          "options": ["Yamuna", "Brahmaputra", "Ganges", "Godavari"],
+          "correctAnswer": 2,
+          "explanation": "The Ganges (Ganga) is India's longest river at 2,525 km. It is also considered sacred in Hinduism and flows through northern India."
+        },
+        {
+          "question": "When did the Indian Constitution come into effect?",
+          "options": ["August 15, 1947", "January 26, 1950", "November 26, 1949", "December 31, 1949"],
+          "correctAnswer": 1,
+          "explanation": "The Indian Constitution came into effect on January 26, 1950, which is celebrated as Republic Day. It was adopted on November 26, 1949, but came into force on January 26, 1950."
+        },
+        {
+          "question": "What does GDP stand for?",
+          "options": ["General Development Product", "Gross Domestic Product", "Global Development Plan", "Gross Development Principle"],
+          "correctAnswer": 1,
+          "explanation": "GDP stands for Gross Domestic Product. It measures the total value of all goods and services produced within a country during a specific time period, indicating economic health and growth."
+        },
+        {
+          "question": "Which mountain is the highest peak in India?",
+          "options": ["Mount Everest", "Nanda Devi", "Kanchenjunga", "K2"],
+          "correctAnswer": 2,
+          "explanation": "Kanchenjunga (8,586m) is the highest peak entirely in India, located in Sikkim. While Mount Everest is taller, it lies on the Nepal-China border, not entirely within India."
+        }
+      ]
+    },
+    {
+      "id": "health-safety",
+      "name": "Health & Safety",
+      "description": "Essential health, wellness and safety information",
+      "articles": [
+        {
+          "id": "physical-health",
+          "title": "Physical Health & Wellness",
+          "content": "Physical health is the foundation of overall well-being and quality of life. It encompasses not just the absence of disease, but optimal functioning of body systems through regular exercise, adequate sleep, and preventive healthcare. Maintaining physical health requires consistent habits and lifestyle choices that support your body's natural healing and strength.\n\nA holistic approach to physical wellness includes cardiovascular fitness, muscular strength, flexibility, and maintaining healthy body composition. Small daily habits compound over time to create significant health benefits.\n\nKey Practices:\n• Exercise 30-45 minutes daily with mix of cardio and strength training\n• Get 7-8 hours of quality sleep in dark, cool, quiet environment\n• Stay hydrated with 8-10 glasses of water daily (more if active)\n• Schedule regular health check-ups and preventive screenings\n• Maintain good posture while sitting, standing, and working\n• Practice daily hygiene including dental care and hand washing\n• Limit screen time and take regular movement breaks\n• Maintain healthy body weight through balanced lifestyle"
+        },
+        {
+          "id": "nutrition",
+          "title": "Nutrition & Healthy Eating",
+          "content": "Proper nutrition fuels your body and mind, providing essential nutrients for growth, repair, immunity, and energy production. A balanced diet with appropriate portions of all food groups supports optimal health and prevents chronic diseases. Understanding nutrition helps make informed food choices that support your health goals and lifestyle.\n\nNutrition science emphasizes whole foods over processed options, variety over monotony, and mindful eating over restrictive dieting. Your relationship with food impacts both physical and mental health.\n\nNutritional Guidelines:\n• Eat colorful variety of fruits and vegetables (5-7 servings daily)\n• Include whole grains, lean proteins, healthy fats in meals\n• Limit processed foods, added sugars, and excessive salt\n• Practice portion control using plate method (half vegetables, quarter protein, quarter grains)\n• Stay hydrated throughout the day, especially before meals\n• Plan balanced meals with all macronutrients (carbs, protein, fats)\n• Read nutrition labels to make informed choices\n• Eat mindfully, chewing thoroughly and avoiding distractions"
+        },
+        {
+          "id": "mental-health",
+          "title": "Mental Health & Stress Management",
+          "content": "Mental health is as important as physical health and encompasses emotional, psychological, and social well-being. It affects how we think, feel, act, handle stress, relate to others, and make choices. Managing stress effectively and maintaining emotional balance are crucial for overall wellness and life satisfaction. Mental health exists on a continuum and requires ongoing attention.\n\nBuilding resilience, practicing self-care, and seeking support when needed are signs of strength, not weakness. Early intervention and proper support can significantly improve mental health outcomes.\n\nStress Management & Mental Wellness:\n• Practice daily mindfulness meditation or deep breathing (10-20 minutes)\n• Maintain healthy work-life balance with clear boundaries\n• Connect regularly with supportive family, friends, and community\n• Engage in hobbies, creative activities, and relaxation techniques\n• Seek professional help from therapists or counselors when needed\n• Practice positive self-talk and challenge negative thought patterns\n• Limit social media and news consumption to reduce anxiety\n• Exercise regularly as it significantly improves mood and reduces stress"
+        },
+        {
+          "id": "first-aid",
+          "title": "First Aid & Emergency Care",
+          "content": "Basic first aid knowledge can save lives in emergencies and prevent minor injuries from becoming serious. Everyone should know how to respond appropriately to common medical situations until professional help arrives. First aid involves immediate care provided to injured or ill persons before professional medical treatment is available. Staying calm and acting quickly are crucial in emergencies.\n\nProper first aid training includes hands-on practice with certified instructors. Regular refresher courses help maintain skills and learn updated techniques.\n\nEssential First Aid Skills:\n• CPR (Cardiopulmonary Resuscitation) basics and when to use it\n• Treating cuts and wounds: clean, apply pressure, bandage properly\n• Managing burns: cool with water, never use ice, cover loosely\n• Handling fractures: immobilize, don't realign, seek medical help\n• Recognizing heart attack (chest pain, arm pain) and stroke (FAST: Face, Arms, Speech, Time) symptoms\n• Keep emergency contact numbers readily accessible\n• Heimlich maneuver for choking emergencies\n• Maintain a well-stocked first aid kit at home and car"
+        },
+        {
+          "id": "personal-safety",
+          "title": "Personal & Home Safety",
+          "content": "Personal safety involves being aware of your surroundings and taking preventive measures to protect yourself from harm. Home safety includes fire prevention, security measures, and accident prevention to create a safe living environment. Proactive safety measures prevent most accidents and security incidents. Developing safety awareness as a habit provides protection in various situations.\n\nRegular safety audits of your home and routines help identify and address potential risks before incidents occur.\n\nSafety Measures:\n• Stay aware of surroundings, trust your instincts about situations\n• Secure your home with quality locks, proper lighting, security systems\n• Install and regularly test smoke detectors and carbon monoxide alarms\n• Keep emergency contacts (police, fire, medical) easily accessible\n• Practice fire safety: escape plans, extinguisher locations, electrical safety\n• Prevent household accidents: secure rugs, handrails on stairs, childproofing\n• Safe online practices: strong passwords, privacy settings, avoid oversharing\n• Learn self-defense basics and de-escalation techniques"
+        },
+        {
+          "id": "road-travel-safety",
+          "title": "Road & Travel Safety",
+          "content": "Road and travel safety protects you and others from accidents and injuries while commuting or traveling. Following traffic rules and being a responsible road user are civic duties that save countless lives. Defensive driving and travel preparedness prevent most accidents and ensure safe journeys. Most road accidents are preventable through awareness, following rules, and responsible behavior.\n\nDeveloping safe travel habits protects not just yourself but also other road users and pedestrians.\n\nRoad & Travel Safety Rules:\n• Always wear seatbelts in cars, regardless of seat position or distance\n• Strictly follow all traffic signals, speed limits, and road signs\n• Never drink and drive; use designated drivers or taxis if consuming alcohol\n• Wear properly fitted helmets on two-wheelers (motorcycles, bicycles)\n• Plan safe travel routes, inform others of your plans and ETA\n• Carry emergency supplies: first aid kit, water, flashlight, phone charger\n• Avoid using mobile phones while driving (use hands-free if necessary)\n• Maintain safe following distance and be extra cautious in bad weather"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many hours of sleep is recommended for adults per night?",
+          "options": ["5-6 hours", "6-7 hours", "7-8 hours", "9-10 hours"],
+          "correctAnswer": 2,
+          "explanation": "Adults need 7-8 hours of quality sleep per night for optimal physical and mental health. Consistent sleep deprivation can lead to serious health issues including weakened immunity, weight gain, and cognitive problems."
+        },
+        {
+          "question": "What does the acronym FAST stand for in recognizing stroke symptoms?",
+          "options": ["First Aid Stroke Treatment", "Face, Arms, Speech, Time", "Fast Action Saves Time", "Facial Alert Stroke Test"],
+          "correctAnswer": 1,
+          "explanation": "FAST stands for Face (drooping), Arms (weakness), Speech (difficulty), and Time (call emergency immediately). This helps quickly identify stroke symptoms and get timely medical intervention."
+        },
+        {
+          "question": "How many servings of fruits and vegetables should you eat daily?",
+          "options": ["2-3 servings", "3-4 servings", "5-7 servings", "8-10 servings"],
+          "correctAnswer": 2,
+          "explanation": "Nutritional guidelines recommend eating 5-7 servings of fruits and vegetables daily to ensure adequate intake of vitamins, minerals, fiber, and antioxidants for optimal health."
+        },
+        {
+          "question": "What is the first step in treating a minor burn?",
+          "options": ["Apply ice directly", "Apply butter or oil", "Cool with running water", "Cover immediately"],
+          "correctAnswer": 2,
+          "explanation": "The correct first step for treating a minor burn is to cool it with running cool (not ice-cold) water for 10-20 minutes. Never use ice, butter, or oil as these can cause further damage."
+        },
+        {
+          "question": "How much daily exercise is recommended for maintaining physical health?",
+          "options": ["10-15 minutes", "20-25 minutes", "30-45 minutes", "60-90 minutes"],
+          "correctAnswer": 2,
+          "explanation": "Health experts recommend 30-45 minutes of moderate exercise daily, including a mix of cardiovascular activity and strength training for maintaining optimal physical health and fitness."
+        }
+      ]
+    },
+    {
+      "id": "fun-creativity",
+      "name": "Fun & Creativity",
+      "description": "Unleash your creative potential and have fun",
+      "articles": [
+        {
+          "id": "creative-thinking",
+          "title": "Creative Thinking & Imagination",
+          "content": "Creative thinking is the ability to look at problems and situations from fresh, innovative perspectives and generate novel solutions. Imagination fuels creativity and drives innovation across all fields—from art and literature to science and business. Everyone has creative potential; it's not limited to 'artistic' people. Creativity can be developed and strengthened through practice and the right mindset.\n\nCreative thinking involves making new connections between existing ideas, challenging assumptions, and being willing to take intellectual risks. Cultivating curiosity and openness to new experiences enhances creative abilities.\n\nBoosting Creativity:\n• Practice brainstorming regularly without judging initial ideas\n• Ask 'what if' questions to explore alternative possibilities\n• Combine unrelated ideas to generate novel concepts (cross-pollination)\n• Keep a creativity journal to capture ideas, observations, and inspirations\n• Expose yourself to diverse experiences, cultures, and perspectives\n• Embrace curiosity and experimentation without fear of failure\n• Take breaks and allow time for incubation of ideas\n• Collaborate with people from different backgrounds and fields"
+        },
+        {
+          "id": "art-drawing",
+          "title": "Art & Drawing Basics",
+          "content": "Art and drawing are fundamental forms of creative expression that allow you to communicate ideas, emotions, and observations visually. Anyone can learn to draw with dedication, practice, and proper techniques—it's a skill, not just innate talent. Drawing improves observation skills, hand-eye coordination, and spatial awareness while providing therapeutic benefits and creative satisfaction.\n\nStarting with basic shapes and gradually building complexity helps develop confidence and skill. Regular practice is more important than long, infrequent sessions.\n\nDrawing Fundamentals:\n• Start with basic geometric shapes (circles, squares, triangles) to build forms\n• Practice shading techniques to create depth and three-dimensionality\n• Understand one-point, two-point, and three-point perspective\n• Study proportions of human figures, faces, and common objects\n• Experiment with different mediums (pencils, charcoal, pens, digital)\n• Draw regularly from life observation, not just photographs\n• Learn light and shadow principles to make drawings realistic\n• Don't erase everything—learn from 'mistakes' and keep sketching"
+        },
+        {
+          "id": "diy-crafts",
+          "title": "DIY Crafts & Reuse Projects",
+          "content": "DIY (Do It Yourself) crafts are fun, economical, and environmentally friendly activities that promote creativity and resourcefulness. Reusing and upcycling materials reduces waste, saves money, and creates unique items with personal significance. Crafting provides stress relief, develops fine motor skills, and creates a sense of accomplishment when completing projects.\n\nStart with simple projects using readily available materials before progressing to more complex creations. The process is often more valuable than the final product.\n\nCraft Ideas & Projects:\n• Paper crafts and origami: flowers, animals, decorative boxes\n• Upcycle old items creatively: jars into planters, t-shirts into bags\n• Make handmade gifts: cards, photo frames, jewelry, candles\n• Create home decorations: wall art, wreaths, cushion covers\n• Build functional items from waste: organizers from cardboard, bottle planters\n• Start with simple projects and gradually increase complexity\n• Use eco-friendly materials and non-toxic adhesives when possible\n• Join crafting communities for inspiration and sharing ideas"
+        },
+        {
+          "id": "story-writing",
+          "title": "Story Writing & Poetry",
+          "content": "Writing stories and poetry allows you to express emotions, ideas, and imagination creatively while developing language skills and emotional intelligence. Creative writing provides an outlet for self-expression, helps process experiences, and creates connections with readers. Whether fiction, non-fiction, or poetry, writing is accessible to everyone willing to put words on paper.\n\nThe key to improving writing is consistent practice and reading widely across genres and styles. Every writer started as a beginner; improvement comes through dedication.\n\nWriting Tips & Techniques:\n• Read widely across genres for inspiration and learning techniques\n• Create interesting, relatable characters with depth and motivations\n• Build engaging plots with conflict, rising action, climax, and resolution\n• Write regularly, even if just 15-20 minutes daily (develop the habit)\n• Experiment with different genres: mystery, fantasy, romance, sci-fi\n• Share your work and receive constructive feedback from others\n• Study poetry forms: haiku, sonnets, free verse, slam poetry\n• Edit and revise your work—first drafts are just beginnings"
+        },
+        {
+          "id": "brain-games",
+          "title": "Brain Games & Puzzles",
+          "content": "Brain games and puzzles keep your mind sharp, improve cognitive abilities, and provide enjoyable mental challenges. They're fun ways to enhance memory, logical reasoning, problem-solving skills, and concentration. Regular mental exercise through puzzles can help maintain cognitive function and may reduce age-related mental decline. Puzzles provide achievement satisfaction and stress relief while exercising your brain.\n\nVariety in puzzle types ensures different cognitive skills are developed. Challenge yourself gradually with increasing difficulty levels.\n\nPuzzle Types & Benefits:\n• Sudoku and number puzzles develop logical reasoning and pattern recognition\n• Crosswords and word games expand vocabulary and verbal skills\n• Logic puzzles and riddles enhance critical thinking and deduction\n• Chess and strategy games improve planning and tactical thinking\n• Memory games strengthen short-term and working memory\n• Pattern recognition challenges develop visual-spatial intelligence\n• Jigsaw puzzles improve visual perception and patience\n• Brain training apps provide varied challenges with progress tracking"
+        },
+        {
+          "id": "music-dance",
+          "title": "Music, Dance & Performing Arts",
+          "content": "Music and dance are universal forms of expression that bring joy, cultural connection, and physical benefits. Performing arts develop confidence, coordination, emotional expression, and discipline while providing creative outlets and social connections. You don't need to be professionally talented to enjoy and benefit from music and dance—participation itself brings value.\n\nLearning performing arts teaches patience, perseverance, and the value of practice. It connects you with cultural heritage and global artistic traditions.\n\nGetting Started & Benefits:\n• Learn a musical instrument: guitar, keyboard, drums, traditional instruments\n• Practice different dance styles: classical, contemporary, hip-hop, folk\n• Join music or dance groups for social learning and performances\n• Perform for friends and family to build confidence and share joy\n• Explore different cultural arts to appreciate diversity\n• Enjoy the process of learning without pressure for perfection\n• Music improves memory, coordination, and emotional regulation\n• Dance provides excellent physical exercise and stress relief"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the key to improving creative writing skills?",
+          "options": ["Writing only when inspired", "Consistent practice and wide reading", "Using complex vocabulary", "Writing long pieces only"],
+          "correctAnswer": 1,
+          "explanation": "The key to improving writing skills is consistent practice (even 15-20 minutes daily) combined with reading widely across different genres. This develops vocabulary, exposes you to various techniques, and builds the writing habit."
+        },
+        {
+          "question": "When starting to learn drawing, what should beginners focus on first?",
+          "options": ["Complex portraits", "Basic geometric shapes", "Digital art software", "Expensive materials"],
+          "correctAnswer": 1,
+          "explanation": "Beginners should start with basic geometric shapes (circles, squares, triangles) to build forms. This foundation helps develop understanding of structure before progressing to more complex subjects."
+        },
+        {
+          "question": "What does DIY stand for in crafts?",
+          "options": ["Design It Yourself", "Do It Yourself", "Draw It Yourself", "Develop It Yourself"],
+          "correctAnswer": 1,
+          "explanation": "DIY stands for 'Do It Yourself.' It refers to making, modifying, or repairing things yourself rather than buying ready-made products or hiring professionals."
+        },
+        {
+          "question": "Which benefit is NOT associated with regular brain puzzles and games?",
+          "options": ["Improved memory", "Enhanced problem-solving", "Instant IQ increase", "Better concentration"],
+          "correctAnswer": 2,
+          "explanation": "While brain games improve memory, problem-solving, and concentration over time with regular practice, they don't provide instant IQ increases. Cognitive improvement is gradual and requires consistent engagement."
+        },
+        {
+          "question": "What is a key principle for boosting creative thinking?",
+          "options": ["Always judge ideas immediately", "Combine unrelated ideas", "Stick to one field only", "Avoid experimentation"],
+          "correctAnswer": 1,
+          "explanation": "Combining unrelated ideas (cross-pollination) is a powerful creative thinking technique. It creates novel connections and innovative solutions by merging concepts from different domains."
+        }
+      ]
+    },
+    {
+      "id": "government-schemes",
+      "name": "Government & Welfare Schemes",
+      "description": "Information about Indian government programs and schemes",
+      "articles": [
+        {
+          "id": "government-structure",
+          "title": "Introduction to Indian Government Structure",
+          "content": "India follows a federal parliamentary democratic republic system where power is distributed between the Central (Union) Government and State Governments, with local self-government at the grassroots level. This three-tier system ensures governance reaches citizens at all levels while maintaining national unity. The Constitution provides the framework for this complex yet functional governmental structure.\n\nUnderstanding government structure helps citizens know which authority handles specific issues and how to access government services effectively. Cooperative federalism emphasizes collaboration between different levels of government.\n\nKey Components:\n• Three-tier system: Central Government, State Governments, Local Bodies (Panchayats, Municipalities)\n• Parliament: Lok Sabha (House of People) and Rajya Sabha (Council of States)\n• Executive: President (constitutional head), Prime Minister (head of government), Council of Ministers\n• Judiciary: Supreme Court (apex), High Courts (state level), District Courts\n• Independent constitutional bodies: Election Commission, CAG, UPSC, etc.\n• Cooperative federalism encourages center-state collaboration\n• Separation of powers ensures checks and balances\n• Adult suffrage gives voting rights to all citizens above 18 years"
+        },
+        {
+          "id": "flagship-schemes",
+          "title": "Flagship Welfare Schemes",
+          "content": "The Indian government runs several flagship schemes designed for comprehensive citizen welfare across health, infrastructure, sanitation, and economic development. These large-scale programs aim to improve quality of life, reduce poverty, and build national infrastructure. Flagship schemes receive significant funding and policy attention to achieve transformative goals.\n\nAwareness of these schemes helps eligible citizens access benefits and participate in national development initiatives.\n\nMajor Schemes:\n• Ayushman Bharat: World's largest health insurance scheme providing ₹5 lakh coverage to poor families\n• Digital India: Technology-driven governance, digital infrastructure, and digital literacy\n• PM Awas Yojana: Affordable housing for all, targeting urban and rural poor\n• Swachh Bharat Mission: Clean India campaign promoting sanitation and waste management\n• Make in India: Promoting domestic manufacturing and attracting foreign investment\n• Smart Cities Mission: Developing 100 cities with modern urban infrastructure\n• Ujjwala Yojana: Free LPG connections to poor households\n• Jan Dhan Yojana: Financial inclusion through bank accounts for all"
+        },
+        {
+          "id": "education-youth",
+          "title": "Education & Youth Schemes",
+          "content": "Education and skill development schemes empower youth with knowledge and employable skills necessary for economic participation and personal growth. These programs support students at various educational levels through scholarships, infrastructure, digital resources, and vocational training. Investment in education and youth development builds human capital for national progress.\n\nYoung people should actively explore schemes relevant to their educational stage and career aspirations to maximize opportunities.\n\nKey Programs:\n• Skill India Mission: Comprehensive vocational training across multiple sectors\n• PMKVY (Pradhan Mantri Kaushal Vikas Yojana): Certification-based skill training\n• National Scholarships Portal: Centralized platform for merit and need-based scholarships\n• Mid-Day Meal Scheme: Nutritious meals to encourage school attendance\n• Sarva Shiksha Abhiyan: Universal elementary education program\n• Digital learning initiatives: e-learning platforms, digital content, internet access\n• PM YUVA Scheme: Mentorship program for young authors\n• National Apprenticeship Promotion Scheme: On-job training with stipend"
+        },
+        {
+          "id": "women-child",
+          "title": "Women & Child Welfare Schemes",
+          "content": "Special schemes for women and children promote gender equality, child welfare, and empowerment through education, health, safety, and economic opportunities. These programs address historical disadvantages and create enabling environments for women and children to thrive. Protecting and empowering women and children strengthens families, communities, and the nation.\n\nAwareness and utilization of these schemes can significantly improve outcomes for women and children from disadvantaged backgrounds.\n\nWelfare Programs:\n• Beti Bachao Beti Padhao: Combating female foeticide and promoting girl child education\n• Sukanya Samriddhi Yojana: High-interest savings scheme for girl child's future\n• Maternity Benefit Program: Financial assistance and healthcare for pregnant women\n• Women empowerment programs: Self-help groups, entrepreneurship support\n• Integrated Child Development Services (ICDS): Nutrition and early education\n• Protection against child labor: Rehabilitation and education for rescued children\n• National Nutrition Mission: Addressing malnutrition in children and mothers\n• Free education for girls: Various state and central schemes"
+        },
+        {
+          "id": "employment-entrepreneurship",
+          "title": "Employment & Entrepreneurship Schemes",
+          "content": "Government schemes support job creation, self-employment, and entrepreneurship through financial assistance, training, mentorship, and policy support. These programs aim to reduce unemployment, promote innovation, and build a robust entrepreneurial ecosystem. Entrepreneurship drives economic growth, creates jobs, and fosters innovation across sectors.\n\nAspiring entrepreneurs should leverage government support to reduce initial barriers and increase chances of success.\n\nBusiness Support Programs:\n• Startup India: Ecosystem support including tax benefits, easier compliance, funding access\n• MUDRA (Micro Units Development & Refinance Agency): Loans up to ₹10 lakh for micro-enterprises\n• Stand Up India: Promoting SC/ST/Women entrepreneurs with bank loans\n• Self-employment schemes: Supporting individuals to start small businesses\n• Industrial development programs: Infrastructure, incentives for manufacturing\n• Entrepreneurship development training: Business skills, management, marketing\n• Credit guarantee schemes: Collateral-free loans for small businesses\n• MSME support: Various benefits for Micro, Small, Medium Enterprises"
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agriculture & Rural Development Schemes",
+          "content": "Agricultural schemes support farmers with income support, crop insurance, irrigation, credit facilities, and modern farming techniques while rural development programs build infrastructure and employment opportunities. Agriculture remains crucial for India's economy and food security, with majority of population in rural areas. Farmer welfare and rural development are priorities for inclusive growth and reducing urban-rural disparities.\n\nFarmers should stay informed about scheme benefits and application processes to improve agricultural productivity and income.\n\nFarmer & Rural Welfare:\n• PM-KISAN: Direct income support of ₹6,000 annually to farmer families\n• MNREGA (Mahatma Gandhi National Rural Employment Guarantee Act): 100 days guaranteed wage employment\n• Pradhan Mantri Fasal Bima Yojana: Comprehensive crop insurance at low premiums\n• Irrigation projects: Improving water availability for agriculture\n• Agricultural credit facilities: Low-interest loans through banks and cooperatives\n• Rural infrastructure development: Roads, electricity, drinking water, connectivity\n• Soil Health Card Scheme: Free soil testing for optimal fertilizer use\n• Kisan Credit Card: Easy credit access for farmers"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the coverage amount provided under Ayushman Bharat health insurance scheme?",
+          "options": ["₹2 lakh", "₹3 lakh", "₹5 lakh", "₹10 lakh"],
+          "correctAnswer": 2,
+          "explanation": "Ayushman Bharat provides health insurance coverage of ₹5 lakh per family per year for secondary and tertiary care hospitalization. It's the world's largest health insurance scheme."
+        },
+        {
+          "question": "How many days of guaranteed wage employment does MNREGA provide?",
+          "options": ["50 days", "75 days", "100 days", "150 days"],
+          "correctAnswer": 2,
+          "explanation": "MNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) provides a legal guarantee of 100 days of wage employment in a financial year to rural households."
+        },
+        {
+          "question": "What is the maximum loan amount under MUDRA scheme?",
+          "options": ["₹5 lakh", "₹10 lakh", "₹15 lakh", "₹20 lakh"],
+          "correctAnswer": 1,
+          "explanation": "MUDRA (Micro Units Development & Refinance Agency) provides loans up to ₹10 lakh to micro-enterprises and small businesses without requiring collateral."
+        },
+        {
+          "question": "What does 'Beti Bachao Beti Padhao' scheme promote?",
+          "options": ["Women's sports", "Girl child survival and education", "Women's employment", "Female entrepreneurs"],
+          "correctAnswer": 1,
+          "explanation": "'Beti Bachao Beti Padhao' (Save Daughter, Educate Daughter) addresses declining child sex ratio and promotes girl child education and empowerment through awareness and multi-sectoral action."
+        },
+        {
+          "question": "What is the annual income support provided to farmers under PM-KISAN?",
+          "options": ["₹4,000", "₹5,000", "₹6,000", "₹8,000"],
+          "correctAnswer": 2,
+          "explanation": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) provides direct income support of ₹6,000 per year to farmer families, paid in three equal installments of ₹2,000 each."
+        }
+      ]
+    },
+    {
+      "id": "science-technology",
+      "name": "Science & Technology",
+      "description": "Explore scientific discoveries and modern technology",
+      "articles": [
+        {
+          "id": "science-branches",
+          "title": "Branches of Science & Importance",
+          "content": "Science is systematically organized knowledge about the natural and physical world gained through observation and experimentation. It's divided into major branches that study different aspects of reality, from the tiniest particles to the vast universe. Understanding these branches helps appreciate the interconnected nature of scientific knowledge and its applications in solving real-world problems.\n\nEach science branch contributes unique insights and methodologies while often overlapping with others in interdisciplinary research. Scientific literacy is increasingly important for informed citizenship.\n\nMajor Branches:\n• Physics: Study of matter, energy, motion, force, and fundamental laws of nature\n• Chemistry: Study of substances, their properties, compositions, and reactions\n• Biology: Study of living organisms, their structure, function, growth, and evolution\n• Earth Science: Study of Earth's structure, atmosphere, oceans, and climate systems\n• Astronomy: Study of celestial objects, space, and the universe\n• Environmental Science: Study of ecosystems, environmental problems, and sustainability\n• Applied sciences use fundamental knowledge for practical applications\n• Interdisciplinary sciences combine multiple fields for comprehensive understanding"
+        },
+        {
+          "id": "famous-scientists",
+          "title": "Famous Scientists & Their Inventions",
+          "content": "Great scientists throughout history have shaped human civilization through groundbreaking discoveries and inventions. Their contributions, often built upon previous knowledge, continue to impact our daily lives and expand human understanding. Scientific progress results from curiosity, persistence, rigorous methodology, and willingness to challenge existing beliefs.\n\nMany discoveries came from years of dedicated work, numerous failures, and occasional serendipity. Scientists inspire us to ask questions and seek evidence-based answers.\n\nNotable Scientists & Contributions:\n• Isaac Newton: Laws of motion, universal gravitation, calculus, optics\n• Albert Einstein: Theory of relativity (E=mc²), photoelectric effect, modern physics\n• Marie Curie: Radioactivity research, discovered polonium and radium, first woman Nobel laureate\n• Thomas Edison: Practical electric bulb, phonograph, motion pictures\n• APJ Abdul Kalam: Missile technology, satellite launch vehicles, India's space program\n• CV Raman: Raman Effect in light scattering, first Asian Nobel in Science\n• Charles Darwin: Theory of evolution by natural selection\n• Louis Pasteur: Germ theory, pasteurization, vaccines"
+        },
+        {
+          "id": "space-exploration",
+          "title": "Space Exploration",
+          "content": "Space exploration has dramatically expanded human knowledge beyond Earth, revealing the cosmos's vastness and our planet's uniqueness. From early satellite launches to landing on the Moon and Mars missions, space programs have achieved remarkable milestones. ISRO (Indian Space Research Organisation) and NASA have been pioneers in advancing space science and technology.\n\nSpace exploration drives technological innovation, inspires future generations, and provides critical data about Earth's climate and resources. It represents humanity's curiosity and capability to overcome seemingly impossible challenges.\n\nMajor Achievements & Missions:\n• Moon landing (1969): Apollo 11 - Neil Armstrong and Buzz Aldrin\n• Mars missions: Multiple rovers (Curiosity, Perseverance) exploring Martian surface\n• ISRO's Chandrayaan-1, 2, 3: India's lunar exploration program\n• ISRO's Mangalyaan (Mars Orbiter Mission): First Asian nation to reach Mars orbit\n• International Space Station: Continuous human presence in space since 2000\n• Hubble Space Telescope: Revolutionary deep space observations\n• Satellite technology: GPS, weather forecasting, communications\n• Future missions: Artemis (return to Moon), human Mars missions planned"
+        },
+        {
+          "id": "modern-technologies",
+          "title": "Modern Technologies",
+          "content": "Modern technologies like Artificial Intelligence, Robotics, Blockchain, and IoT are transforming industries, economies, and daily life at an unprecedented pace. Understanding these technologies is increasingly important for career readiness and informed participation in the digital economy. These technologies create new opportunities while posing ethical and social challenges that society must address.\n\nTechnological change accelerates exponentially, requiring continuous learning and adaptation. Responsible technology development considers societal impact alongside innovation.\n\nEmerging Technologies:\n• Artificial Intelligence (AI) and Machine Learning: Systems that learn and improve from data\n• Robotics and automation: Machines performing tasks with minimal human intervention\n• Blockchain technology: Decentralized, secure digital ledger systems\n• Internet of Things (IoT): Network of connected devices exchanging data\n• 5G networks: Ultra-fast mobile connectivity enabling new applications\n• Quantum computing: Utilizing quantum mechanics for exponentially faster processing\n• Augmented Reality (AR) and Virtual Reality (VR): Immersive digital experiences\n• Biotechnology: Genetic engineering, CRISPR, personalized medicine"
+        },
+        {
+          "id": "everyday-science",
+          "title": "Everyday Science",
+          "content": "Science surrounds us in everyday objects and phenomena, from the electricity powering homes to the smartphones in our pockets. Understanding how common technologies work enhances appreciation of science and helps make informed decisions about technology use. Scientific principles underlie even the most mundane daily activities.\n\nBasic scientific literacy helps troubleshoot problems, understand safety issues, and appreciate the complexity of modern technological society.\n\nCommon Technologies Explained:\n• Electricity in homes: Generation, transmission, distribution through power grids\n• Internet and networking: Data packets, routers, wireless communication basics\n• GPS and navigation: Satellite triangulation providing precise location data\n• Mobile phone technology: Cellular networks, radio waves, digital communication\n• Microwave ovens: Using electromagnetic radiation to heat food molecules\n• Water purification systems: Filtration, UV treatment, reverse osmosis\n• LED lights: Energy-efficient lighting using semiconductors\n• Refrigeration: Heat transfer principles keeping food fresh"
+        },
+        {
+          "id": "environmental-science",
+          "title": "Environmental Science & Green Technology",
+          "content": "Environmental science studies interactions between humans and the environment, addressing critical challenges like climate change, pollution, and resource depletion. Green technologies offer sustainable solutions to environmental problems while maintaining economic development. Understanding environmental issues is crucial for sustainable living and responsible citizenship.\n\nEvery individual action contributes to environmental health or degradation. Collective action through informed choices can address environmental challenges.\n\nGreen Solutions & Environmental Concepts:\n• Solar and wind energy: Renewable alternatives to fossil fuels\n• Electric vehicles: Reducing transportation emissions and air pollution\n• Recycling and waste management: Reducing landfill waste, circular economy\n• Water conservation techniques: Rainwater harvesting, efficient irrigation, greywater reuse\n• Sustainable agriculture: Organic farming, permaculture, reduced chemical use\n• Carbon footprint reduction: Energy efficiency, sustainable transportation, conscious consumption\n• Biodiversity conservation: Protecting ecosystems and endangered species\n• Climate change mitigation and adaptation strategies"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What does E=mc² represent in Einstein's theory?",
+          "options": ["Energy efficiency formula", "Mass-energy equivalence", "Electric force equation", "Momentum calculation"],
+          "correctAnswer": 1,
+          "explanation": "E=mc² represents mass-energy equivalence, meaning mass and energy are interchangeable. Energy (E) equals mass (m) times the speed of light (c) squared. This revolutionary equation is fundamental to modern physics."
+        },
+        {
+          "question": "Which Indian mission was the first Asian mission to reach Mars orbit?",
+          "options": ["Chandrayaan-1", "Mangalyaan", "Gaganyaan", "Aditya-L1"],
+          "correctAnswer": 1,
+          "explanation": "Mangalyaan (Mars Orbiter Mission) made India the first Asian nation and the first nation to reach Mars orbit in its first attempt in 2014. It was a remarkable achievement for ISRO."
+        },
+        {
+          "question": "What does IoT stand for?",
+          "options": ["Internet of Things", "Integration of Technology", "International Online Trade", "Instant Output Transfer"],
+          "correctAnswer": 0,
+          "explanation": "IoT stands for Internet of Things - a network of physical devices embedded with sensors and software that connect and exchange data over the internet, enabling smart homes, cities, and industries."
+        },
+        {
+          "question": "Which renewable energy source uses photovoltaic cells?",
+          "options": ["Wind energy", "Hydroelectric", "Solar energy", "Geothermal"],
+          "correctAnswer": 2,
+          "explanation": "Solar energy uses photovoltaic cells (solar panels) that convert sunlight directly into electricity through the photovoltaic effect, providing clean, renewable energy."
+        },
+        {
+          "question": "Who discovered the Raman Effect?",
+          "options": ["APJ Abdul Kalam", "Homi Bhabha", "CV Raman", "Vikram Sarabhai"],
+          "correctAnswer": 2,
+          "explanation": "CV Raman discovered the Raman Effect in 1928, which describes the inelastic scattering of light. He received the Nobel Prize in Physics in 1930, becoming the first Asian to win a Nobel Prize in Science."
+        }
+      ]
+    }
+  ]
+}
